@@ -1,0 +1,42 @@
+start
+   x:=2
+   p1:=0
+   p2:=0
+   p3:=0
+   p4:=0
+   p5:=0
+      repeat
+      enter n,c
+            if c=160 then
+               p1:=p1+1
+               c1[p1]:=n
+            else
+            if c=220 then
+               p2:=p2+1
+               c2[p2]:=n
+            else
+            if c=280 then
+               p3:=p3+1
+               c3[p3]:=n
+            else
+            if c=350 then
+               p4:=p4+1
+               c4[p4]:=n
+            else
+            if c=425 then
+               p5:=p5+1
+               c5[p5]:=n
+            endif
+         enter x
+      until x=3
+   t1:=p1*160
+   t2:=p2*220
+   t3:=p3*280
+   t4:=p4*350
+   t5:=p5*425
+print t1,p1,c1
+print t2,p2,c2
+print t3,p3,c3
+print t4,p4,c4
+print t5,p5,c5
+stop

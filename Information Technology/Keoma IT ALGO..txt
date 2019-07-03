@@ -1,0 +1,66 @@
+START
+	a = 0
+	b = 0
+	c = 0
+	d = 0
+	e = 0
+DO
+	Enter name of masqurader
+	Enter amount
+	if amount = 160 then
+begin
+	a <== a + 1
+	SEC 1N [a] <== Name
+	TSEC1 <== a*160
+end
+        Enter name of masqurader
+	Enter amount
+else
+	if amount = 220 then
+begin
+	b <== b + 1
+	SEC 2N [b] <== Name
+	TSEC2 <== b*220
+end
+	Enter amount
+else
+	if amount = 220 then
+begin
+	c <== c + 1
+	SEC 3N [c] <== Name
+	TSEC3 <== c*280
+end
+	Enter amount
+else
+	if amount = 280 then
+begin
+	d <== d+ 1
+	SEC 4N [d] <== Name
+	TSEC4 <== 4*350
+end
+	Enter amount
+else
+	if amount = 280 then
+begin
+	e <== e+ 1
+	SEC 5N [e] <== Name
+	TSEC5 <== 5*425
+end
+UNTIL user enters stop
+PRINT
+	a 
+	SEC 1N [a]
+	TSEC1
+ 	b 
+	SEC 2N [b]
+	TSEC2
+	c 
+	SEC 3N [c]
+	TSEC3
+	d
+	SEC 4N [d]
+	TSEC4
+	e
+	SEC 5N [e]
+	TSEC5
+STOP

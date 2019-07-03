@@ -1,0 +1,174 @@
+Program MasqueradersBand;
+Var
+   i,p,LinkinPark,GreenDay,Oasis,OneRepublic,Hollows,TSEC1,TSEC2,TSEC3,TSEC4,TSEC5,Codex: Integer;
+   
+   Section1 : Array[1..15] Of String;
+   Section2 : Array[1..15] Of String;
+   Section3 : Array[1..15] Of String;
+   Section4 : Array[1..15] Of String;
+   Section5 : Array[1..15] Of String;
+   Name     :                 String;
+    
+   
+BEGIN
+   
+   LinkinPark  :=0;         
+   GreenDay    :=0;         
+   Oasis       :=0;          
+   OneRepublic :=0;         
+   Hollows     :=0;         
+   
+   TSEC1        :=0;
+   TSEC2        :=0;
+   TSEC3        :=0;
+   TSEC4        :=0;
+   TSEC5        :=0;
+
+   Writeln (' 160 - LinkinPark  ');
+   Writeln (' 220 - GreenDay    ');
+   Writeln (' 280 - Oasis       ');
+   Writeln (' 350 - OneRepublic ');
+   Writeln (' 425 - Hollows     ');
+
+Repeat
+
+Begin
+   Write ('Please name of the masqurader: ');
+   Readln  (Name);
+   Write ('Please enter the amount that the masqurader paid: ');
+   Readln  (P);
+   
+End;
+
+Case P Of
+160: 
+    
+Begin
+    LinkinPark := LinkinPark+1      ;
+    TSEC1      := LinkinPArk*160    ;
+    Section1   [LinkinPark] := Name ;
+End;
+    
+220:
+
+Begin
+    GreenDay :=GreenDay+1       ;
+    TSEC2    :=GreenDay*220     ;
+    Section2 [GreenDay] := Name ;
+End;
+    
+280:
+
+Begin 
+    Oasis    := Oasis+1            ;
+    TSEC3    := Oasis*280          ;
+    Section3 [Oasis] := Name ;
+End;
+ 
+350:
+
+Begin 
+    OneRepublic :=OneRepublic+1       ;
+    TSEC4       :=OneRepublic*350     ;
+    Section4    [OneRepublic] := Name ;
+End;
+
+425:
+
+Begin 
+    Hollows  :=Hollows+1       ;
+    TSEC5    :=Hollows*425     ;
+    Section5 [Hollows] := Name ;
+End;
+    End;
+    Writeln('                                                                  ');
+    Write('To stop the program please enter 0 or any other number to continue: ');
+    Readln(Codex);
+    Writeln('                                                                  ');
+
+Until Codex =0   ;   
+
+   Writeln('                                                          ');
+   Writeln('[========================================================]');
+   Writeln('[                    SECTION ONE                         ]');
+   Writeln('[========================================================]');
+   Writeln('                                                          ');
+   Writeln('The total amount of money received from LinkinPark is:$ ', TSEC1);
+   Writeln('The total number of masquraders in LinkinPark are: ', LinkinPark);
+
+for i := 1 to LinkinPark do
+
+Begin
+   Writeln('The names of the persons in Section 1 are: ', Section1[i]);
+End;
+   
+   Writeln('                                                          ');
+   Writeln('[========================================================]');
+   Writeln('[                    SECTION TWO                         ]');
+   Writeln('[========================================================]');
+   Writeln('                                                          ');
+   Writeln('The total amount of money received from GreenDay is: ', TSEC2);
+   Writeln('The total number of masqueraders in GreenDay are: ', GreenDay );
+
+for i := 1 to GreenDay do
+
+Begin
+   Writeln('The names of the person in section 2 are: ', Section2[i]);
+End;
+   
+   Writeln('                                                          ');
+   Writeln('[========================================================]');
+   Writeln('[                    SECTION THREE                       ]');
+   Writeln('[========================================================]');
+   Writeln('                                                          ');
+   Writeln('The total amount of money received from Oasis are: ', TSEC3);
+   Writeln('The total number of masqueraders in Oasis are: ', Oasis     );
+
+for i := 1 to Oasis do
+
+Begin
+   Writeln('The names of the person in section 3 are: ', Section3[i]);
+End;
+
+   Writeln('                                                          ');
+   Writeln('[========================================================]');
+   Writeln('[                    SECTION FOUR                        ]');
+   Writeln('[========================================================]');
+   Writeln('                                                          ');
+   Writeln('The total amount of money received from OneRepublic are: ', TSEC4);
+   Writeln('The total number of masqueraders in OneRepublic are: ', OneRepublic);
+
+for i:= 1 to OneRepublic do
+
+Begin
+   Writeln('The names of the person in section 4 is ',Section4[i]);
+End;
+
+   Writeln('                                                          ');
+   Writeln('[========================================================]');
+   Writeln('[                    SECTION FIVE                        ]');
+   Writeln('[========================================================]');
+   Writeln('                                                          ');
+   Writeln('The total amount of money received from Hollows are: ', TSEC5);
+   Writeln('The total number of masqueraders in Hollows are: ', Hollows);
+
+for i:= 1 to Oasis do
+
+Begin
+   Writeln('The names of the person in section 5 are: ', Section5[i]);
+End;
+
+END.
+
+   
+
+
+
+
+
+
+
+
+
+
+

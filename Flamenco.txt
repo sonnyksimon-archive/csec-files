@@ -1,0 +1,7 @@
+5 stroke tremolo
+picado
+arpeggio
+golpe
+alzapua
+legato
+rasgueado

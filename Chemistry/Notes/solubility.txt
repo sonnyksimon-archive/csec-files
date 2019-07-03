@@ -1,0 +1,36 @@
+Compounds containing the following ions are ALWAYS soluble(in water)
+ - The middle 5 Alkali Metals 
+	Lithium, Sodium, Potassium, Ribidium, Caesium
+
+Compounds containing the following polyatomic ions are ALWAYS soluble(in water)
+ - Bicarbonate (HCO3 -)
+ - Ammonium (NH4 +)
+ - Nitrate (NO3 -)
+ - Chlorate (ClO3 -)
+
+These compounds are conditionally soluble(in water)...This means that they are usually soluble but have exceptions.
+
+Compounds containing the middle 3 Halogens(Halides, because they are anions)
+ - Chloride 
+ - Bromide 
+ - Iodide
+
+Compounds with these Halides are soluble in water, unless they are attached to one of these three ions: 
+ - Silver (Ag +) 
+ - Mercury[II] (Hg 2+) 
+ - Lead[II] (Pb 2+)
+
+Compounds with Sulfate (SO4 2-) are soluble in water unless attached to one of 6 cations: 
+ - Calcium (Ca 2+) 
+ - Strontium (Sr 2+) 
+ - Barium (Ba 2+) 
+ - Silver (Ag +) 
+ - Mercury[II] (Hg 2+) 
+ - Lead[II] (Pb +)
+
+Compounds with Phosphate(PO4 3-), Carbonate(C03 2-), Chromate(CrO4 2-), Hydroxide(OH -) and Sulfide(S -) are insoluble in water.
+
+Unless the compound also contains:
+ - Alkali Metal AND Ammonium (NH4 +) 
+		or
+ - Alkali Metal AND Barium[II](Ba 2+)

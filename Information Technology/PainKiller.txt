@@ -1,0 +1,116 @@
+
+Data is inputed into the system and it is processed. Think about what is happening when you use word processing software. You press a key on the keyboard and the character code is sent electronically to the central processing unit.
+The CPU carries out the instructions contained in the software and the character appears on the screen in the right place. Although this seems like a very basic operation, it actually involves a large amount of processing.
+
+The output on the screen is useful to us, which is why we refer to it as information. Put simply, a computer takes data as input, processes it and outputs it.
+
+Here is another example, after you have word processed a long document, you want to find the sentence where you wrote about someone. You use the find function to search for the person's name and you input the name as data. The search function in the software then carries out a process on the name and the document, and outputs the information you want.
+
+The term 'data' was originally a plural word; the singular being data. However, data is now widely used for a set of items, so it is quite to say data is processed by a computer system.
+
+Information Processing
+There are many ways in which data can be processed to become information. Here are some of them:
+ - Carrying out calculations in spreadsheet
+ - Print a document or image
+ - Searching the document/database for a particular item of date
+ - Updating data in file
+ - Displaying an image on the screen
+ - Sorting data in alphabetical order
+
+You will be familiar with most of these processes, yourself and will have carried them out a personal computer.
+
+In this topic, we are concentrated on the large and complicated systems used in the business and industries. These are often hidden away from members of the public, so you will not be familiar with them. But the basic processes that are used are often very similar to the ones that you know.
+
+Commercial data processing
+Computer systems are used in many businesses to carry out some time-administrating tasks. Here are some examples of business information processing activities:
+ - Payroll - Calculating how much each employee should be paid every month
+ - Orders - Recording orders that customers placed in the business and then keeping track of when the goods are sent
+ - Sales - In a shop dealing with purchases at the till
+ - Invoices - Sending requests for payments to customers and other businesses
+ - Payments - Paying other business who have supplied materials and other services
+ - Accounts - Keeping track of all the payments made by the business and income
+ - Budget - Planning finances in the future
+ - Correspondence - Sending letters and emails to suppliers and customers
+ - Marketing - Designing, packaging and advertising
+ - Security - Using door entry systems
+
+In some cases these activities run fairly automatically; in other cases employees use software to help them with their work.
+
+For many of these tasks, general purpose software aplication packages can be used, such as those discussed before. For some tasks, specialist software packages are used or software is custom written.
+
+Industrial data processing
+Industrial and manufacturing businesses need to carry out all the business tasks listed in the last topic. In addition, they have further uses of data processing such as:
+ - Control systems - Controlling the processes used when manufacturing products
+ - Computer Aided Design(CAD) - Designing Products
+ - Computer Aided Engineering and Computer Aided Manufacture - Using special software to develop and test products
+
+Control systems
+We can use information processing systems to control machines automatically. Here are some examples:
+ - Factories are often largely automated, example, manufacturing chemicals, packing goods.
+ - Some factories use robots such as automobiles
+ - The signaling systems on many railways across the world are controlled by computer to ensure that trains pass safely 
+ - Most of the more advanced transport vehicles are controlled to some extent by computer systems. Example, autopilot on the aircraft, driver-less trains, fuel injection systems for car engines
+ - Most electronic equipment in the home has some elements in the computer video recorders, digital televisions, digital cameras, washing machines, microwave ovens, cellphones. These are all referred to as control systems. In control systems, the processor is often referred to as the controller.
+
+There are two main types of control systems.
+1. Automation system 
+Carries out straightforward tasks such as running through a program on a washing machine. They do this without any human involvement at all. Once an automation system has been switched on, it follows a set of predetermined actions.
+
+2. Process-controlled systems
+Are used for more complex operations. They constantly change the state of play and change the action used. In processed controlled systems, data is captured automatically. This is done through input devices known as sensors. A sensor can measure things like temperature, humidity, light, sound and movement. It converts the measurement into electronic signals that it sends to the controller(processor). A sensor can provide the data input in a steady steam, or it can take readings at intervals.
+
+The software in the controller then processes the data from the sensors and determines what action if any to take. It then sends the instruction to other special devices such as motors and switches which are part of the machine that is being controlled.
+
+Imagine a food processing factory where candy is being made. Paddles rotate in a large container to mix the ingredients as they are being heated. The control system takes input from a temperature sensor placed inside the container, which will be constantly sending data back to the controller. The controller can send signals to the paddles to switch them on and off and regulate their speed. When the temperature reaches a certain level, the controller sends signals to the motors and switches to slow the paddles down and stop them, and to turn of the heater.
+
+Robots are very complex process control systems. Suppose a robot arm is being used to pick up and move a dangerous item like a radio isotope. The controller instructs the motors in the arm to move the hand into position. It then slowly closes the hand around the object. The sensor in the hand sends data back continuously and as soon as it detects pressure, the controller will instruct the motor to stop.
+
+Scientific data processing
+Scientists can gather a lot of data during experiments. Sometimes they will use sensors to capture data over a period of time. In other experiments, the scientists themselves may be recording readings on a source document.
+
+Generally speaking, scientists will be looking for connection between the data. They will use statistical methods to analyse the figure they have collected. They will often want to display the results in a chart.
+
+TO BE CONTINUED
+
+HEINEMANN:INFORMATION TECHNOLOGY FOR CSEC....
+
+Information Retrieval
+Many businesses are not directly involved in manufacturing. Instead the employees are dealing all the time with information, often in written form. They will be inputing data into the system, than using software to process that data and provide useful information. For example, a customer has a car insurance policy. This means that if the car is damaged in an accident, the insurance will pay for the repairs. The customer would make a claim by filling a claim form and posting to the company. The words on the form have been entered as data into the insurace company's computer system.
+
+This is then processed in several steps. First the software checks that the name on the form matches the name of one of their customers. It then checks the kind of policy that the customer has. It will then decide whether the claim is valid or not . In either case, a letter will be printed automatically for the customer.
+
+Data is input and information usually in the form of a letter is output. In addition, the information in the customer database will be updated. Information processing like this always includes a stage of informaiton retrieval. This is when the data is searched to find the right information. This type of information processing will only work if the data that is held in the system, for example about customers and insurance policies, is stored in a sensible way. The data should be:
+ - accurate
+ - up to date
+ - structured in a way that makes it possible to search for specific data
+ - stored on a suitable storage medium
+
+There are many ways of achieving this and you will be meeting some of them later in this section.The task of managing and storing data so it can be used is known as information management.
+
+Documents used for information processing
+It is surprising how many paper documents still used in computer-based information processing systems. As it is shown in the example, a claim form has been filled in by hand and letters are send by mail. Some of these documents can be sent electronically, but only if the customer can receive and send email. However, for many important documents, a signature is needed and this can only be done on paper.
+
+Source documents
+When an employee takes a document and enters the data into a computer system, the document is referred to as the source document. Once the data has been entered, it should be filed away safely, and not thrown away. That is because the data may have to be checked again.
+
+Human-readable documents
+Many formas are filled in by hand and the employee has to read them before entering the data on a keyboard. These are called human-readable documents. 
+Handwriting can be very difficult to read, and sometimes the employee has problems working out what is written. This can be improved by asking the person writing the document to use capital letters. Sometimes a series of boxes are placed on a form to try to to force the writer to separate out the letter to make them clearer.
+
+Machine-readable documents
+Machine-readable documents are one solution tot the problem of unclear handwriting. Instead of writing the data, the form is marked in some way. The document is then passed through a reader or scanner, which can identify where the marks are. This approach can be very successful but can only work for particular types of data.
+You may have taken a multipel-choice test at some time. For each question you will be given three or four answers and you have to decide which one is correct. You may have been asked to record your results on a sheet like this:
+
+The marks you have made on the answer sheet will be read by an input device directly into the computer system.
+Another form of machine-readable data is to be found on barcodes on the labels of products sold  in shops. The carcode is passed over a scanner, which converts the pattern of lines into a binary code.
+
+Turnaround documents
+A turnaround document is one that ius printed by a computer system, but is later used to input new data into the same system.
+Suppose a customer phones up the insurance company and says that they want to make a claim. At that point the employee can ask the customer's name and address, and insurance account number. They can then search the stored data to find the customer's information. A claim form can then be produced with the customer's name, address and account number printed on it. This form is then sent to the customer.
+The customer fills in the rest of the plain form and sends it back. The employee will know immediately which customer it is from because the data will be clearly printed on form.
+
+Verification and validation of data
+We say that data has integrity if it is accurate and uptodate.
+
+All organizations know that data is useless to them unless the data is kept uptodate. For example, a hotel may hold the names and addresses of people who have stayed there in the past, so they can send them details about special offers. The names and addresses are of no use unless they are correct.
+n  
